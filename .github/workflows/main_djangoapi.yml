@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'DjangoApi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_108B3BE5E76740BFB7457B4ECA691497 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6DF37ABB5F2049429E66BEE1D845DF3F }}
